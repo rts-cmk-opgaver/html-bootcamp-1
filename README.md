@@ -48,9 +48,9 @@ Du skal nu lave et HTML dokument, som viser, at du behersker den overordnede HTM
 	* `head`-sektion
 	* `body`-sektion
 	* `body`-sektionen skal have mindst 20 forskellige objekter, med indhold.
-* Din HTML skal valideres på https://validator.nu/ (vælg check by text input)
+* Din HTML skal valideres på [validator.w3.org](https://validator.w3.org/#validate_by_input)
 
-Du må gerne bruge lorem ipsum, og til billeder kan du for eksempel bruge https://lorempixel.com eller https://placeholder.com.
+Du må gerne bruge lorem ipsum, og til billeder kan du for eksempel bruge https://placehold.co eller https://cataas.com.
 
 Du skal ikke style dit dokument.
 
